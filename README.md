@@ -1,6 +1,6 @@
 # Adegoke Sarah -  Tennis Star 
 
-![Adegoke Sarah Website](Screenshot_2023-06-14_07_47_45.png)
+![Adegoke Sarah Website](image.png)
 
 This project is a responsive website named "Adegoke Sarah" built using HTML and CSS. The website is dedicated to showcasing the achievements and journey of one of Nigeria's superstar tennis women, Adegoke Sarah.
 
