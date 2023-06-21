@@ -2,7 +2,7 @@
 
 ![Adegoke Sarah Website](image.png)
 
-This project is a responsive website named "Adegoke Sarah" built using HTMl,CSS and JAVASCRIPT. The website is dedicated to showcasing the achievements and journey of one of Nigeria's superstar tennis women, Adegoke Sarah.
+This project is a responsive website named "Adegoke Sarah" built using HTML, CSS, and JAVASCRIPT. The website is dedicated to showcasing the achievements and journey of one of Nigeria's superstar tennis women, Adegoke Sarah.
 
 ## Table of Contents
 
