@@ -42,11 +42,11 @@ To explore the Adegoke Sarah website, follow these steps:
 
 5. Resize the browser window or view the website on different devices to experience its responsiveness.
 
-6. Feel free to customize the website by modifying the HTML and CSS files to suit your needs or add additional features.
+6. Feel free to customize the website by modifying the HTML and CSS files to suit your needs or adding additional features.
 
 ## Contributing
 
-Contributions to this project are not accepted as it represents a specific website built for Adegoke Sarah. However, your feedback and suggestions are welcome. If you encounter any issues or have ideas for improvement, please feel free to reach out or create a fork of this repository to work on your own version of the website.
+Contributions to this project are accepted as it represents a specific website built for Adegoke Sarah. However, your feedback and suggestions are welcome. If you encounter any issues or have ideas for improvement, please feel free to reach out or create a fork of this repository to work on your own version of the website.
 
 ## License
 
